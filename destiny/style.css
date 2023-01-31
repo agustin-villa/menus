@@ -1,0 +1,14 @@
+.main_menu{
+    margin-top: 30px;
+    font-family: monospace;
+    background-color: #23395d;
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    border: 3px solid orange;
+    
+}
+.main_menu div{
+    flex: 1;
+    flex-basis: auto;
+}
